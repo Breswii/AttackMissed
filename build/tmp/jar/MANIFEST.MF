@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: attackmissed
+Specification-Vendor: Breswii
+Specification-Version: 1
+Implementation-Title: AttackMissed
+Implementation-Version: breswii
+Implementation-Vendor: Breswii
+Implementation-Timestamp: 2024-02-22T18:56:00+0800
+
